@@ -1,0 +1,22 @@
+{
+  "name": "phantomfrost-github-site",
+  "version": "0.0.0",
+  "description": "[Link To The Site.](https://phantomf11.github.io/)",
+  "main": "index.js",
+  "scripts": {
+    "build" : "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhantomF11/PhantomF11.github.io.git"
+  },
+  "author": "PhantomF11",
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/PhantomF11/PhantomF11.github.io/issues"
+  },
+  "homepage": "https://github.com/PhantomF11/PhantomF11.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
